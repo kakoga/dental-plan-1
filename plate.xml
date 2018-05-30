@@ -17,16 +17,15 @@
         </head>
         <!-- CLIPPINGS -->
         <clippings>
-            <text name="site_name" name_friendly="Site Name" required="1"><![CDATA[Zesty Pet Clinic]]></text>
+            <text name="site_name" name_friendly="Site Name" required="1"><![CDATA[Zesty Dental]]></text>
             <images name="logo" name_friendly="Site Logo" limit="1" />
             <text name="logo_height" name_friendly="Logo Height (pixels)"><![CDATA[50]]></text>
             <text name="below_logo_text" name_friendly="Below Logo Text"><![CDATA[]]></text>
             <text name="social_media_icon_height" name_friendly="Social Media Icon(s) Height (pixels)"><![CDATA[16]]></text>
             <text name="request_btn_font_size" name_friendly="Request Button Font Size (pixels)"><![CDATA[12]]></text>
-            <text name="footer_text" name_friendly="Footer Text"><![CDATA[PetDesk with Zesty.io]]></text>
+            <text name="footer_text" name_friendly="Footer Text"><![CDATA[Wonderist Agency with Zesty.io]]></text>
             <text name="phone" name_friendly="Main Phone"><![CDATA[555-555-5555]]></text>
             <text name="telephone_number_height" name_friendly="Telephone Number Height (pixels)"><![CDATA[16]]></text>
-            <text name="petdesk_ref_code" name_friendly="Petdesk Reference Code"><![CDATA[1359]]></text>
             <wysiwyg_advanced name="pop_up_content" name_friendly="Pop-up Content"><![CDATA[]]></wysiwyg_advanced>
         </clippings>
         <ingredients>
@@ -42,11 +41,6 @@
                       <name><![CDATA[Facebook]]></name>
                       <font_awesome_icon><![CDATA[facebook]]></font_awesome_icon>
                       <url><![CDATA[https://www.facebook.com]]></url>
-                  </item>
-                  <item link_title="" path_part="">
-                      <name><![CDATA[Twitter]]></name>
-                      <font_awesome_icon><![CDATA[twitter]]></font_awesome_icon>
-                      <url><![CDATA[https://www.twitter.com]]></url>
                   </item>
                   <item link_title="" path_part="">
                       <name><![CDATA[Instagram]]></name>
@@ -98,7 +92,7 @@
             <items>
               <item>
                 <logo_title><![CDATA[Zesty Clinic Logo]]></logo_title>
-                <footer_logo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/zesty_footer_logo.png]]></footer_logo>
+                <footer_logo><![CDATA[https://2fs9ms.media.zestyio.com/wonderist-logo.png]]></footer_logo>
                 <sort_order><![CDATA[1]]></sort_order>
               </item>
               <item>
@@ -127,8 +121,8 @@
                     <!-- Squares Section -->
                     <background_pattern><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/squares-bg-5.jpg]]></background_pattern>
                     <!-- Timeline text -->
-                    <timeline_title><![CDATA[Pet Care for Every Age]]></timeline_title>
-                    <timeline_subtitle><![CDATA[We offer the best care for pets of all ages]]></timeline_subtitle>
+                    <timeline_title><![CDATA[Dental Care for Every Age]]></timeline_title>
+                    <timeline_subtitle><![CDATA[We offer the best dental care for all ages]]></timeline_subtitle>
                     <timeline_button_text><![CDATA[Discover our services]]></timeline_button_text>
                     <timeline_btn_links_to><![CDATA[503]]></timeline_btn_links_to>
                   </item>
@@ -147,15 +141,35 @@
                     <sort name="sort_order" name_friendly="Sort Order" list="1" />
                 </fields>
                 <items>
-                    <item link_title="Special Offers" path_part="">
-                        <title><![CDATA[After-Hours Emergencies?]]></title>
+                    <item link_title="Early Dental Care" path_part="">
+                        <title><![CDATA[Starting good dental habits early is key to your health.]]></title>
+                        <second_line><![CDATA[]]></second_line>
+                        <background_video></background_video>
+                        <background_image><![CDATA[https://2fs9ms.media.zestyio.com/homepage-slider-01-compress.jpg]]></background_image>
+                        <horizontal_alignment_for_mobile><![CDATA[Center]]></horizontal_alignment_for_mobile>
+                        <button_text><![CDATA[]]></button_text>
+                        <links_to><![CDATA[]]></links_to>
+                        <sort_order><![CDATA[1]]></sort_order>
+                    </item>
+                    <item link_title="Family Dental Care" path_part="">
+                        <title><![CDATA[We specialize in family dentistry]]></title>
                         <second_line><![CDATA[Call</br>1-800-555-5555]]></second_line>
                         <background_video></background_video>
-                        <background_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/home-hero.HyfKW2OUul.jpeg]]></background_image>
+                        <background_image><![CDATA[https://2fs9ms.media.zestyio.com/homepage-slider-02-compress.jpg]]></background_image>
                         <horizontal_alignment_for_mobile><![CDATA[Center]]></horizontal_alignment_for_mobile>
                         <button_text><![CDATA[Contact Us]]></button_text>
                         <links_to><![CDATA[521]]></links_to>
-                        <sort_order><![CDATA[1]]></sort_order>
+                        <sort_order><![CDATA[2]]></sort_order>
+                    </item>
+                    <item link_title="Senior Dental Care" path_part="">
+                        <title><![CDATA[We keep your smile brilliant at all ages]]></title>
+                        <second_line><![CDATA[]]></second_line>
+                        <background_video></background_video>
+                        <background_image><![CDATA[https://2fs9ms.media.zestyio.com/homepage-slider-03-compress.jpg]]></background_image>
+                        <horizontal_alignment_for_mobile><![CDATA[Right]]></horizontal_alignment_for_mobile>
+                        <button_text><![CDATA[Contact Us]]></button_text>
+                        <links_to><![CDATA[521]]></links_to>
+                        <sort_order><![CDATA[3]]></sort_order>
                     </item>
                 </items>
             </dataset>
@@ -170,24 +184,24 @@
                 </fields>
                 <items>
                     <item link_title="" path_part="">
-                        <bubble_title><![CDATA[Baby]]></bubble_title>
-                        <bubble_subtitle><![CDATA[Small Beginnings]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/timeline-baby.SJZ5WhuUdg.jpeg]]></bubble_image>
-                        <bubble_blurb><![CDATA[Give your baby animal the best with our Baby Health and Wellness Package, which includes vaccines, a wellness check, and grooming.]]></bubble_blurb>
+                        <bubble_title><![CDATA[Toddlers]]></bubble_title>
+                        <bubble_subtitle><![CDATA[Start Early]]></bubble_subtitle>
+                        <bubble_image><![CDATA[https://2fs9ms.media.zestyio.com/home-timeline-01.jpeg]]></bubble_image>
+                        <bubble_blurb><![CDATA[Starting good habits early is key to your child's dental health.]]></bubble_blurb>
                         <sort_order><![CDATA[1]]></sort_order>
                     </item>
                     <item link_title="" path_part="">
-                        <bubble_title><![CDATA[Adult]]></bubble_title>
-                        <bubble_subtitle><![CDATA[Prime-of-life]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/timeline-adult.Bylq-3_Iux.jpeg]]></bubble_image>
-                        <bubble_blurb><![CDATA[Make sure your adult stays healthy our Adult Health and Wellness Package which includes a wellness exam, vaccine boosters, a heartworm check, and more.]]></bubble_blurb>
+                        <bubble_title><![CDATA[Adults]]></bubble_title>
+                        <bubble_subtitle><![CDATA[Continuing Good Hygiene]]></bubble_subtitle>
+                        <bubble_image><![CDATA[https://2fs9ms.media.zestyio.com/home-timeline-02.jpeg]]></bubble_image>
+                        <bubble_blurb><![CDATA[Bi-annual check-ups keep your teeth healthy. We also offer cosmetic dentistry and orthodontia.]]></bubble_blurb>
                         <sort_order><![CDATA[2]]></sort_order>
                     </item>
                     <item link_title="" path_part="">
-                        <bubble_title><![CDATA[Senior]]></bubble_title>
-                        <bubble_subtitle><![CDATA[Healthy & Active in Old Age]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/timeline-senior.rkq-3O8de.jpg ]]></bubble_image>
-                        <bubble_blurb><![CDATA[Make sure your senior has the best quality of life with our Senior Care Package. We'll help you keep your pet healthy with a comprehensive exam, blood work, x-rays and more to ensure your pets health well into old age.]]></bubble_blurb>
+                        <bubble_title><![CDATA[Seniors]]></bubble_title>
+                        <bubble_subtitle><![CDATA[Learning specialized care for your age]]></bubble_subtitle>
+                        <bubble_image><![CDATA[https://2fs9ms.media.zestyio.com/home-timeline-03.jpg]]></bubble_image>
+                        <bubble_blurb><![CDATA[If you're over 65 years old you're considered a senior citizen. Senior citizens are at risk for different oral health issues. We'll keep you well educated on the best oral care for your age. ]]></bubble_blurb>
                         <sort_order><![CDATA[3]]></sort_order>
                     </item>
                 </items>

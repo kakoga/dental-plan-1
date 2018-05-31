@@ -119,7 +119,7 @@
                   <item link_title="Home" path_part="zesty_home">
                     <homepage_title><![CDATA[]]></homepage_title>
                     <!-- Squares Section -->
-                    <background_pattern><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/squares-bg-5.jpg]]></background_pattern>
+                    <background_pattern><![CDATA[https://2fs9ms.media.zestyio.com/glass-2.jpg]]></background_pattern>
                     <!-- Timeline text -->
                     <timeline_title><![CDATA[Dental Care for Every Age]]></timeline_title>
                     <timeline_subtitle><![CDATA[We offer the best dental care for all ages]]></timeline_subtitle>
@@ -186,14 +186,14 @@
                     <item link_title="" path_part="">
                         <bubble_title><![CDATA[Toddlers]]></bubble_title>
                         <bubble_subtitle><![CDATA[Start Early]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://2fs9ms.media.zestyio.com/home-timeline-01.jpeg]]></bubble_image>
+                        <bubble_image><![CDATA[https://2fs9ms.media.zestyio.com/home-timeline-01a.jpeg]]></bubble_image>
                         <bubble_blurb><![CDATA[Starting good habits early is key to your child's dental health.]]></bubble_blurb>
                         <sort_order><![CDATA[1]]></sort_order>
                     </item>
                     <item link_title="" path_part="">
                         <bubble_title><![CDATA[Adults]]></bubble_title>
                         <bubble_subtitle><![CDATA[Continuing Good Hygiene]]></bubble_subtitle>
-                        <bubble_image><![CDATA[https://2fs9ms.media.zestyio.com/home-timeline-02.jpeg]]></bubble_image>
+                        <bubble_image><![CDATA[https://2fs9ms.media.zestyio.com/home-timeline-02a.jpeg]]></bubble_image>
                         <bubble_blurb><![CDATA[Bi-annual check-ups keep your teeth healthy. We also offer cosmetic dentistry and orthodontia.]]></bubble_blurb>
                         <sort_order><![CDATA[2]]></sort_order>
                     </item>
@@ -218,24 +218,24 @@
             </fields>
             <items>
               <item>
-                <image_title><![CDATA[Care Packages]]></image_title>
-                <image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/squares-carepkg.ByxY-nO8ug.jpeg]]></image>
+                <image_title><![CDATA[Comprehensive Care]]></image_title>
+                <image><![CDATA[https://2fs9ms.media.zestyio.com/home-square-1a.JPG]]></image>
                 <image_caption><![CDATA[<p>We offer care packages for each stage of life.</p>]]></image_caption>
                 <button_text><![CDATA[Learn More]]></button_text>
                 <links_to><![CDATA[501]]></links_to>
                 <sort_order><![CDATA[1]]></sort_order>
               </item>
               <item>
-                <image_title><![CDATA[Day Care]]></image_title>
-                <image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/squares-daycare.S1KZ3_Lue.jpeg]]></image>
+                <image_title><![CDATA[Gentle and Detailed]]></image_title>
+                <image><![CDATA[https://2fs9ms.media.zestyio.com/home-square-2.jpeg]]></image>
                 <image_caption></image_caption>
                     <button_text><![CDATA[Learn More]]></button_text>
                     <links_to><![CDATA[501]]></links_to>
                 <sort_order><![CDATA[2]]></sort_order>
               </item>
               <item>
-                <image_title><![CDATA[Services]]></image_title>
-                <image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/squares-services.HytZ3_Idx.jpeg]]></image>
+                <image_title><![CDATA[Patient Education]]></image_title>
+                <image><![CDATA[https://2fs9ms.media.zestyio.com/home-square-3.jpg]]></image>
                 <image_caption></image_caption>
                     <button_text><![CDATA[Learn More]]></button_text>
                     <links_to><![CDATA[501]]></links_to>

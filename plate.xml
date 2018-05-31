@@ -147,7 +147,7 @@
                         <background_video></background_video>
                         <background_image><![CDATA[https://2fs9ms.media.zestyio.com/homepage-slider-01-compress.jpg]]></background_image>
                         <horizontal_alignment_for_mobile><![CDATA[Center]]></horizontal_alignment_for_mobile>
-                        <button_text><![CDATA[Contact Us]]></button_text>
+                        <button_text><![CDATA[]]></button_text>
                         <links_to><![CDATA[521]]></links_to>
                         <sort_order><![CDATA[1]]></sort_order>
                     </item>
@@ -167,7 +167,7 @@
                         <background_video></background_video>
                         <background_image><![CDATA[https://2fs9ms.media.zestyio.com/homepage-slider-03-compress.jpg]]></background_image>
                         <horizontal_alignment_for_mobile><![CDATA[Right]]></horizontal_alignment_for_mobile>
-                        <button_text><![CDATA[Contact Us]]></button_text>
+                        <button_text><![CDATA[]]></button_text>
                         <links_to><![CDATA[521]]></links_to>
                         <sort_order><![CDATA[3]]></sort_order>
                     </item>

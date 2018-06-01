@@ -17,7 +17,7 @@
         </head>
         <!-- CLIPPINGS -->
         <clippings>
-            <text name="site_name" name_friendly="Site Name" required="1"><![CDATA[Zesty Dental]]></text>
+            <text name="site_name" name_friendly="Site Name" required="1"><![CDATA[Zesty Family Dental]]></text>
             <images name="logo" name_friendly="Site Logo" limit="1" />
             <text name="logo_height" name_friendly="Logo Height (pixels)"><![CDATA[50]]></text>
             <text name="below_logo_text" name_friendly="Below Logo Text"><![CDATA[]]></text>
@@ -251,7 +251,7 @@
             </fields>
             <items>
               <item>
-                <about_section_title><![CDATA[Zesty Dental]]></about_section_title>
+                <about_section_title><![CDATA[Zesty Family Dental]]></about_section_title>
                 <about_section_image><![CDATA[https://2fs9ms.media.zestyio.com/home-about-1a.png]]></about_section_image>
                 <about_section_copy><![CDATA[<p>We offer the most comprehensive and gentle care for your family. We offer care for all ages from toddlers to seniors, including specialzed education for each age group. While we care for all of your dental needs, we emphasize that oral health begins at home with daily brushing and flossing. Contact us to learn more about our team and how we can help you get the smile that you deserve.</p>]]></about_section_copy>
                 <about_section_button_txt><![CDATA[Learn More]]></about_section_button_txt>
@@ -301,7 +301,7 @@
                   <item link_title="Contact Us" path_part="contact-us" parent_item="contact-us">
                       <page_title><![CDATA[Contact Us]]></page_title>
                       <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/contact-us-hero-2.jpeg]]></main_image>
-                      <address_one><![CDATA[Zesty Dental]]></address_one>
+                      <address_one><![CDATA[Zesty Family Dental]]></address_one>
                       <address_two><![CDATA[2044 1st Avenue]]></address_two>
                       <address_three><![CDATA[San Diego, CA 92101]]></address_three>
                       <general_info_one><![CDATA[For general information, questions, appointment requests, call us at:]]></general_info_one>
@@ -683,7 +683,7 @@
                   <item link_title="Services" path_part="services">
                       <page_title><![CDATA[Our Services]]></page_title>
                       <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/sevices-home.BygYW2_Idl.jpeg]]></main_image>
-                      <body_text><![CDATA[<p>Zesty dental offers full-service dental care, from routine examinations and fillings to periodontal disease care and treatment. In addition, we offer unparalleled surgical, digital X-ray and scans, and orthodontic evaluation services. We place special emphasis on preventive care and individual wellness programs, such as senior care, healthy gums, and lifestyle.</p>
+                      <body_text><![CDATA[<p>Zesty Family Dental offers full-service dental care, from routine examinations and fillings to periodontal disease care and treatment. In addition, we offer unparalleled surgical, digital X-ray and scans, and orthodontic evaluation services. We place special emphasis on preventive care and individual wellness programs, such as senior care, healthy gums, and lifestyle.</p>
                       <p>We believe that it is our job to not only treat your patients when they are ill, but to educate you on how to keep your mouths happy and healthy. Our dental professionals have more than 40 years of combined dental experience. They have provided treatment for thousands of patients for a variety of problems and are constantly updating their skills through continuing education classes to learn about the latest innovations and medical protocols.</p>]]></body_text>
                   </item>
               </items>
@@ -784,7 +784,7 @@
                       <main_image><![CDATA[https://2fs9ms.media.zestyio.com/about-us-hero.jpeg]]></main_image>
                       <body_text>
                         <![CDATA[
-                        <p>At Zesty Dental we're here to support your oral health and wellness. We offer a wide variety of services including:</p>
+                        <p>At Zesty Family Dental we're here to support your oral health and wellness. We offer a wide variety of services including:</p>
                         <ul>
                           <li>Bi-annual Cleanings</li>
                           <li>Fluoride Treatments</li>
@@ -795,7 +795,7 @@
                         <p>We are conviniently located near downtown San Diego in Bankers Hill.</p>
                         <p>Our practice was first established as Bamboo Oral Health in 2004 by Dr. Bob. Dr. Bob graduated from Loma Linda Univeristy in 1990. Dental Assistant Janice joined the practice in 2010 after studying at a local college.</p>
 
-                        <blockquote>Zesty Dental's mission is to provide detailed and gentle care, and quality customer service at a reasonable price.</blockquote>
+                        <blockquote>Zesty Family Dental's mission is to provide detailed and gentle care, and quality customer service at a reasonable price.</blockquote>
 
                         <p>Our philosophy for care is that, as a team, we can only be as strong as our weakest link, therefore it's our goal that every member of our staff can make the best recommendations for your health and wellness.</p>
 
@@ -974,14 +974,14 @@
                   <client_first_name><![CDATA[Lenny]]></client_first_name>
                   <client_last_name><![CDATA[Leonard]]></client_last_name>
                   <client_location><![CDATA[Lakeside, CA]]></client_location>
-                  <client_testimonial><![CDATA[I started coming to Zesty Dental in 2000 when I was having an issue with my wisdom teeth. They were able to work around my hectic schedule to get me in and treat my infection. I was able to heal up quickly and get back to work. They have the best service and a kind, compassionate, and knowledgeable team.]]></client_testimonial>
+                  <client_testimonial><![CDATA[I started coming to Zesty Family Dental in 2000 when I was having an issue with my wisdom teeth. They were able to work around my hectic schedule to get me in and treat my infection. I was able to heal up quickly and get back to work. They have the best service and a kind, compassionate, and knowledgeable team.]]></client_testimonial>
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
                 <item>
                   <client_first_name><![CDATA[Carl]]></client_first_name>
                   <client_last_name><![CDATA[Carlson]]></client_last_name>
                   <client_location><![CDATA[El Cajon, CA]]></client_location>
-                  <client_testimonial><![CDATA[Last year when my old dentist went out of practice, I didn't know what to do. I had a dental emergency and called Zesty Dental and their on-call doctor treated me right away. After I went home they followed up with me to make sure I was well on my way to healing. I'm so glad that I found a good dentist. I'm a Zesty Dental client for life.]]></client_testimonial>
+                  <client_testimonial><![CDATA[Last year when my old dentist went out of practice, I didn't know what to do. I had a dental emergency and called Zesty Family Dental and their on-call doctor treated me right away. After I went home they followed up with me to make sure I was well on my way to healing. I'm so glad that I found a good dentist. I'm a Zesty Family Dental client for life.]]></client_testimonial>
                   <sort_order><![CDATA[2]]></sort_order>
                 </item>
                 <item>

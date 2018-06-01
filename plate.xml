@@ -683,8 +683,8 @@
                   <item link_title="Services" path_part="services">
                       <page_title><![CDATA[Our Services]]></page_title>
                       <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/sevices-home.BygYW2_Idl.jpeg]]></main_image>
-                      <body_text><![CDATA[<p>Pet Care Veterinary Hospital offers full-service veterinary care, from routine physical examinations and vaccinations to emergency and critical care. In addition, we offer unparalleled surgical, dental, digital X-ray, endoscopic, and ultrasound evaluation services. We place special emphasis on preventive medicine and individual wellness programs, such as senior care, healthy weight, and lifestyle.</p>
-                      <p>We believe that it is our job to not only treat your pets when they are ill, but to educate you on how to keep your best friends happy and healthy. Our vets have more than 80 years of combined veterinary experience. They have provided treatment for thousands of pets for a variety of problems and are constantly updating their skills through continuing education classes to learn about the latest innovations and medical protocols.</p>]]></body_text>
+                      <body_text><![CDATA[<p>Zesty dental offers full-service dental care, from routine examinations and fillings to periodontal disease care and treatment. In addition, we offer unparalleled surgical, digital X-ray and scans, and orthodontic evaluation services. We place special emphasis on preventive care and individual wellness programs, such as senior care, healthy gums, and lifestyle.</p>
+                      <p>We believe that it is our job to not only treat your patients when they are ill, but to educate you on how to keep your mouths happy and healthy. Our dental professionals have more than 40 years of combined dental experience. They have provided treatment for thousands of patients for a variety of problems and are constantly updating their skills through continuing education classes to learn about the latest innovations and medical protocols.</p>]]></body_text>
                   </item>
               </items>
           </templateset>
@@ -793,27 +793,27 @@
               <items>
                   <item link_title="About Us" path_part="about-us">
                       <page_title><![CDATA[About Us]]></page_title>
-                      <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-hero.ry5b3_8_e.jpg]]></main_image>
+                      <main_image><![CDATA[https://2fs9ms.media.zestyio.com/about-us-hero.jpeg]]></main_image>
                       <body_text>
                         <![CDATA[
-                        <p>At Zesty Pet Clinic we're here to support the health and wellness of your pet. We offer a wide variety of services including:</p>
+                        <p>At Zesty Dental we're here to support your oral health and wellness. We offer a wide variety of services including:</p>
                         <ul>
-                          <li>Boarding</li>
-                          <li>Day Care</li>
-                          <li>Medical Services</li>
-                          <li>Dental Services</li>
-                          <li>General Care and Care Packages</li>
+                          <li>Bi-annual Cleanings</li>
+                          <li>Fluoride Treatments</li>
+                          <li>Orthodontia</li>
+                          <li>Periodontal Disease Therapies</li>
+                          <li>Patient Education</li>
                         </ul>
-                        <p>We're located conveniently close to public transportation in sunny downtown San Diego near the historical Gaslamp Quarter.</p>
-                        <p>Our hospital was first established as Pet Hospital of North Park in 2004 by Dr. Bob. Dr. Bob graduated from University of Animal Medicine in 1980, and from University of Muppetology in 1985. He is a third generaiton veterinarian, and the Scottie Dog icon was originally used at his grandfather's practice in 1934 in swamps of Lousiana. Nurse Piggy and Nurse Janice joined the practice in 2010 after studying at a local college.</p>
+                        <p>We are conviniently located near downtown San Diego in Bankers Hill.</p>
+                        <p>Our practice was first established as Bamboo Oral Health in 2004 by Dr. Bob. Dr. Bob graduated from Loma Linda Univeristy in 1990. Dental Assistant Janice joined the practice in 2010 after studying at a local college.</p>
 
-                        <blockquote>Zesty Pet Clinic's mission is to provide sound medicine and quality customer service at a reasonable price.</blockquote>
+                        <blockquote>Zesty Dental's mission is to provide detailed and gentle care, and quality customer service at a reasonable price.</blockquote>
 
-                        <p>Our philosophy for care is that, as a team, we can only be as strong as our weakest link, therefore it's our goal that every member of our staff can make the best recommendations for a pet's health, wellness, nutrition, and behavior.</p>
+                        <p>Our philosophy for care is that, as a team, we can only be as strong as our weakest link, therefore it's our goal that every member of our staff can make the best recommendations for your health and wellness.</p>
 
-                        <blockquote>We strive for all team members to provide the highest level of general medicine care to every pet that comes in the door. Our prices aim to allow for all owners to affordably maintain basic wellness routines.</blockquote>
+                        <blockquote>We strive for all team members to provide the highest level of service and care to every patient that comes in the door. Our prices aim to allow for all to affordably maintain basic wellness routines.</blockquote>
 
-                        <p>We look forward to meeting you and getting to know you and your pet.</p>]]>
+                        <p>We look forward to meeting you and helping you achieve the smile that you deserve.</p>]]>
                       </body_text>
                   </item>
               </items>

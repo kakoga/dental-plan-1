@@ -699,7 +699,7 @@
               <items>
                 <item link_title="General Health" path_part="general-health" parent="services">
                   <page_title><![CDATA[General Health]]></page_title>
-                  <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/services-general-health.rycZnuI_l.jpeg]]></main_image>
+                  <main_image><![CDATA[https://2fs9ms.media.zestyio.com/general-health.jpeg]]></main_image>
                   <body_text><![CDATA[
                   <p>We offer general checkups 2 times a year. Keep your pet the healthiest that they can be with out biannual comprehensive exams. During your pet's checkup, you can opt for grooming services, which include bathing, haircut, nail trim, and more!</p>
                   <p>While NCVEC provides emergency and specialty care, your primary care veterinarian is your partner for wellness and preventative care. Here are some important tips on preventative care for your  pets.</p>
@@ -725,21 +725,9 @@
                 </body_text>
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
-                <item link_title="Vaccines" path_part="vaccines" parent="services">
-                  <page_title><![CDATA[Vaccines]]></page_title>
-                  <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/services-vaccine-01.jpg]]></main_image>
-                  <body_text><![CDATA[<p>Pet vaccines fall into two categories: core and  non-core. Core vaccines are vaccines that are recommended for every pet. Non-core vaccines are vaccines that may be recommened based on your pet's lifestyle. For example, if your pet is boarded a lot, or spends a lot of time outdoors, you may want to consider additional vaccines for your pet.</p>
-                  <p>Similar to human vaccines, animal vaccines are administered to prevent diseases from occurring in animals. Routinely vaccinating animals is often more affordable than paying for the treatment of sick animals, reduces transmission of microorganisms in the animal population, and reduces animal suffering. Pets are often given vaccines for infectious diseases such as rabies, parvovirus, distemper and hepatitis. Livestock animals, such as turkeys, chickens and cattle, are vaccinated to protect against diseases such as rotavirus, E. coli, pinkeye and brucellosis.</p>
-                  <p>The proper application of vaccines to animal populations has enhanced their health and welfare, and prolonged their life expectancies. The goal of a vaccination program is to prevent or reduce disease, and thereby promote optimal patient, herd and public health. Even though some formerly common diseases have now become uncommon, vaccination is still highly recommended because these serious disease agents continue to thrive in certain environments.</p>
-                  <p><strong>Types of Animal Vaccines<br />
-                  </strong>Animal vaccines are part of a broader category of animal medicines called veterinary biologics (VB). VB products work primarily through the stimulation of the immune system in order to prevent or treat diseases.</p>
-                  <p><strong><a href="http://www.ahi.org/regulation/usda/">Government Regulation</a><br />
-                  </strong>Veterinary biologics are regulated by the USDA <a href="https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/veterinary-biologics/sa_about_vb/!ut/p/z1/tZLNcoIwFIWfxQVLTBBE6A6tI7aoC3_JhgkxQFpMMEStffpG6qKdqXa6aHb35svNOTkBCGwA4vjIcqyY4LjUdYzcZGoNRtBzrGg0fLRgEPrj57DnwpHvgBVAABGuKlWAGFcFqxMiuKJcJSVLJZZnA9Y4EQeZZIIc6qbCnO1wmRQUl6poOkeqkpSJUuSMXJlUHFRyTC_zK8K2ILZo5rq275m20-uajmsTM7W6tkmIBbvQ3xJv64L1b4KR3oY3VgD1edQg0cwZWP05jGar0IXBcLFcTD2rP_Y7V-DOjFhr6N3W0APrI6MnsORC6mcA8z9aDCF4aiTccalzYy_7PQp0OJc43hTY_Es6-qKOnAwmubaAVWEyngmw-UporXkp0s_PFPDU9jQraUYlle2D1O1Cqap-MKABT6dTOxciL2mbiJ0BfzpSiFqb-U6Carfz7LP5mk2GtoPSs_0e0XXQan0ApK22Iw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?urile=wcm%3Apath%3A%2FAPHIS_Content_Library%2FSA_Our_Focus%2FSA_Animal_Health%2FSA_Vet_Biologics%2FSA_About_VB">Center for Veterinary Biologics </a>(CVB) in the USDA’s <a href="http://www.aphis.usda.gov/">Animal and Plant Health Inspection Service </a>(APHIS). AHI members in the veterinary biologics industry continue to work closely with the USDA and invest millions of dollars in the development of effective vaccines to advance the control and eradication of disease in animals.</p>]]></body_text>
-                  <sort_order><![CDATA[2]]></sort_order>
-                </item>
                 <item link_title="Care Packages" path_part="care-packages" parent="services">
                   <page_title><![CDATA[Care Packages]]></page_title>
-                  <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/services-care-pkg.HJeY-n_U_l.jpg]]></main_image>
+                  <main_image><![CDATA[https://2fs9ms.media.zestyio.com/care-packages.jpeg]]></main_image>
                   <body_text><![CDATA[<p>Our pets, just like humans, will have changing medical and health needs as they age. Our care packages will help you get the most comprehensive care for your pet from baby to senior.
                     Each package covers comprehensive exams, possible vaccines or medication, nutritional consulation, heartworm test and more.</p></br>
                     <h3>Baby</h3></br> <p>Our Baby Package includes:</br> <ul><li>Comprehensive physical exam</li><li>Recommended vaccines</li></ul></p></br>
@@ -747,9 +735,9 @@
                     <h3>Senior</h3></br><p>Our Senior Package includes:</br><ul><li>Comprehensive exam and history</li><li>Blood work (CBC and 30 tests)</li><li>Fecal test to check for common parasites</li><li>5 x-rays of chest and abdomen</li></ul>]]></body_text>
                   <sort_order><![CDATA[3]]></sort_order>
                 </item>
-                <item link_title="Dental Care" path_part="dental-care" parent="services">
+                <item link_title="Periodontal Care" path_part="dental-care" parent="services">
                   <page_title><![CDATA[Dental Care]]></page_title>
-                  <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/services-dental-care.rkt-2uIdg.jpeg]]></main_image>
+                  <main_image><![CDATA[https://2fs9ms.media.zestyio.com/periodontal-care.jpeg]]></main_image>
                   <body_text><![CDATA[<p>Dental care is an integral part of your pets health. Poor dental health can lead to other health problems, including heart problems. To help your pet be the best health possible, we offer professional cleanings, and training and tips to help your pet get used to daily tooth brushing.</p>
 
                     <p>Veterinary dentistry includes the cleaning, adjustment, filing, extraction, or repair of your pets' teeth and all other aspects of oral health care. These procedures should be performed by a veterinarian or a board-certified veterinary dentist. Subject to state or provincial regulation, veterinary technicians are allowed to perform certain dental procedures under the supervision of a veterinarian. </p>

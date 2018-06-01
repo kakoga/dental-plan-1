@@ -268,11 +268,11 @@
               <wysiwyg_advanced name="content" name_friendly="Page Content" />
             </fields>
             <items>
-              <item link_title="Privacy Policy" path_part="privacy-policy" list="false">
+              <item link_title="Privacy Policy" path_part="privacy-policy" hidden="true">
                 <title><![CDATA[Privacy Policy]]></title>
                 <content><![CDATA[See an example boilerplate privacy policy here: <a href="https://www.bbb.org/dallas/for-businesses/bbb-sample-privacy-policy1/">https://www.bbb.org/dallas/for-businesses/bbb-sample-privacy-policy1/</a>]]></content>
               </item>
-              <item link_title="Terms of Use" path_part="terms-of-use" hidden="false">
+              <item link_title="Terms of Use" path_part="terms-of-use" hidden="true">
                 <title><![CDATA[Terms of Use]]></title>
                 <content><![CDATA[See an example boilerplate terms of use here: <a href="https://termsfeed.com/blog/sample-terms-of-use-template/">https://termsfeed.com/blog/sample-terms-of-use-template/</a>]]></content>
               </item>
@@ -594,8 +594,8 @@
                 <textarea name="body_text" name_friendly="Body Text" />
                 <textarea name="download_form_note" name_friendly="Downloadable Forms Note" />
                 <textarea name="embedded_form_instrux" name_friendly="Form Instructions" />
-                <dropdown name="default_fields" name_friendly="Default Form Fields" options="no_form:No Form;patient_basic:Patient Basic;patient_address:Patient Address;patient_address_and_pet_info:Patient address and Pet Info;" />
-                <one_to_many name="additional_fields" name_friendly="Additional Form Fields (add additional fields that you've created in the Custom Form dataset)" relationship="custom_form_fields" relationship_field="custom_field_name" />
+                <!-- <dropdown name="default_fields" name_friendly="Default Form Fields" options="no_form:No Form;patient_basic:Patient Basic;patient_address:Patient Address;patient_address_and_pet_info:Patient address and Pet Info;" /> -->
+                <!-- <one_to_many name="additional_fields" name_friendly="Additional Form Fields (add additional fields that you've created in the Custom Form dataset)" relationship="custom_form_fields" relationship_field="custom_field_name" /> -->
                 <text name="send_form_to" name_friendly="Send Form To (email address)" required="1" />
             </fields>
             <items>
@@ -607,8 +607,8 @@
                   </body_text>
                   <download_form_note><![CDATA[Please see a list of our most common forms below. Once you find the form that you need, click the PDF icon to download.]]></download_form_note>
                   <embedded_form_instrux><![CDATA[If you're interested in Doggy Day Care, please make an appointment and then fill out the form below.]]></embedded_form_instrux>
-                  <default_fields><![CDATA[no_form]]></default_fields>
-                  <additional_fields><![CDATA[]]></additional_fields>
+                    <!-- <default_fields><![CDATA[no_form]]></default_fields> -->
+                    <!-- <additional_fields><![CDATA[]]></additional_fields> -->
                   <send_form_to><![CDATA[petclinic@email.com]]></send_form_to>
               </item>
             </items>
@@ -923,7 +923,7 @@
                   <text name="employee_last_name" name_friendly="Employee Last Name" list="1" />
                   <images name="employee_photo" name_friendly="Employee Photo" list="1" />
                   <wysiwyg_advanced name="employee_bio" name_friendly="Employee Bio" list="1" />
-                  <one_to_one name="employee_category" name_friendly="Employee Category" relationship="employee_category" relationship_field="employee_category" list="1" />
+                    <!-- <one_to_one name="employee_category" name_friendly="Employee Category" relationship="employee_category" relationship_field="employee_category" list="1" /> -->
                   <sort name="sort_order" name_friendly="Sort Order" list="1" />
               </fields>
               <items>
@@ -932,7 +932,7 @@
                   <employee_last_name><![CDATA[Henson]]></employee_last_name>
                   <employee_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-employee-photo.png]]></employee_photo>
                   <employee_bio><![CDATA[<p>Dr. Bob has been practicing veterianary medicine for over 30 years. He brings his expertise in dogs, cats, farm animals, and exotics and a degree from Muppet Veterinary University to our humble office.</p>]]></employee_bio>
-                  <employee_category><![CDATA[595]]></employee_category>
+                <!--  <employee_category><![CDATA[595]]></employee_category> -->
                   <sort_order><![CDATA[1]]></sort_order>
                 </item>
                 <item>
@@ -940,7 +940,7 @@
                   <employee_last_name><![CDATA[Oz]]></employee_last_name>
                   <employee_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-employee-photo.png]]></employee_photo>
                   <employee_bio><![CDATA[<p>Nurse Piggy comes to us with over 25 years of experience working in many types of animals. Her comforting bedside manner will be sure to put your pets at ease.</p>]]></employee_bio>
-                  <employee_category><![CDATA[595]]></employee_category>
+                <!--   <employee_category><![CDATA[595]]></employee_category> -->
                   <sort_order><![CDATA[2]]></sort_order>
                 </item>
                 <item>
@@ -948,7 +948,7 @@
                   <employee_last_name><![CDATA[Hunt]]></employee_last_name>
                   <employee_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-employee-photo.png]]></employee_photo>
                   <employee_bio><![CDATA[<p>Nurse Janice comes to use with 5 years of experience. For many years she was a travelling musician, until she decided to turn towards her love of animals.</p>]]></employee_bio>
-                  <employee_category><![CDATA[595]]></employee_category>
+                <!--   <employee_category><![CDATA[595]]></employee_category> -->
                   <sort_order><![CDATA[3]]></sort_order>
                 </item>
                 <item>
@@ -956,7 +956,7 @@
                   <employee_last_name><![CDATA[Eagle]]></employee_last_name>
                   <employee_photo><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-employee-photo.png]]></employee_photo>
                   <employee_bio><![CDATA[<p>Receptionist Sam feels it's his duty to help others and to run a very organized office. He loves to keep our office running and our clients and their pets happy.</p>]]></employee_bio>
-                  <employee_category><![CDATA[594]]></employee_category>
+                  <!--  <employee_category><![CDATA[594]]></employee_category> -->
                   <sort_order><![CDATA[4]]></sort_order>
                 </item>
               </items>

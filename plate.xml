@@ -30,6 +30,17 @@
         </clippings>
         <ingredients>
 
+          <dataset name="accessibility_colors" name_friendly="Accessibility Colors">
+              <fields>
+                <color name="site_wide" name_friendly="Site Wide" />
+              </fields>
+              <items>
+                  <item link_title="" path_part="">
+                      <site_wide><![CDATA[Facebook]]></site_wide>
+                  </item>
+              </items>
+          </dataset>
+
           <dataset name="social_links" name_friendly="Social Links">
               <fields>
                   <text name="name" name_friendly="Social Media Name" list="1" />

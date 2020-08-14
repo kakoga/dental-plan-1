@@ -26,7 +26,7 @@
 						<!-- /.navbar-collapse -->
 					</div>
 					<div class="col-sm-4" >
-						<a class="btn btn-primary pull-right" style="font-size: {{ clippings.request_btn_font_size }}px;" id="request" href="https://dashboard.petdesk.com/WebApptRequest/?placeGUID={{ clippings.petdesk_ref_code }}"  >Request Appointment</a>
+						<a class="btn btn-primary pull-right" style="font-size: {{ clippings.request_btn_font_size }}px;" id="request" href="https://dashboard.petdesk.com/WebApptRequest/?placeGUID=0000"  >Request Appointment</a>
 					</div>
 				</div>
 			</div>
